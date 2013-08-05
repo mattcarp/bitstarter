@@ -1,9 +1,8 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Pop Feastey Boy</title>
+    <title>Pop Feast</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link type="text/css" rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
     <link type="text/css" rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
@@ -14,7 +13,7 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <style type="text/css">
 
-      /* Large Desktop */
+      /* Large Descktop */
       @media (min-width: 980px) {
         body {
             padding-top: 60px;
@@ -127,7 +126,7 @@
         <!-- Use fluid rows inside a container for resizable layout -->
       <div class="row-fluid heading">
         <div class="span12">
-          <h1>Pop Feastey!</h1>
+          <h1>Pop Feast!</h1>
         </div>
       </div> 
      <div class="row-fluid subheading">
@@ -183,12 +182,12 @@
             <img src="http://placehold.it/480x300" alt="" class="img-polaroid">
         </div>
         <div class="span5 copy">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, ut, sit, modi quidem quia assumenda eius vero iure voluptatum doloribus distinctio delectus quasi quo sequi iste fugit beatae eveniet asperiores.</p>
+            <p>First marketing block is here. Lipsum dolor sit amet, consectetur adipisicing elit. Dolores, ut, sit, modi quidem quia assumenda eius vero iure voluptatum doloribus distinctio delectus quasi quo sequi iste fugit beatae eveniet asperiores.</p>
         </div>
       </div>
       <div class="row-fluid section2">
         <div class="span5 offset1 copy copy-right">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, earum, perspiciatis nulla praesentium at id in laborum cum magni nostrum quo nam eum voluptatum officia sapiente pariatur quos odit quas.</p>
+            <p>Put some marketing copy here.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, earum, perspiciatis nulla praesentium at id in laborum cum magni nostrum quo nam eum voluptatum officia sapiente pariatur quos odit quas.</p>
         </div>
         <div class="span5 asset">
             <img src="http://placehold.it/480x300" alt="" class="img-polaroid">
